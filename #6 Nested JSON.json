@@ -1,0 +1,15 @@
+{
+    "name" : "Manoj Kumawat",
+
+    "Age" : 25,
+
+    "Sex" : "Male",
+
+    "Otheinfo" : {
+        "name" : "Ajay Kumawat",
+
+        "Age" : 24,
+
+        "Sex" : "M"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "Name" : "Manoj Kumawat",
+    "arr" : ["Manoj", "Kumawat", {
+        "Name" : "Ajay",
+        "Age" : 25
+    }]
+}

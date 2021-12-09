@@ -1,0 +1,9 @@
+{
+    "isAdmin" : true,
+
+    "isUser" : false,
+
+    "isActive" : false,
+
+    "isDisabled" : true
+}
